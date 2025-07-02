@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Maya",
+    "desc": "**Maya** is a CLI tool that automates app deployment using Docker, GitHub Actions, Helm, and Argo CD. It supports AWS ECS, EKS, and KIND clusters, with built-in security (Trivy), monitoring (Prometheus/Grafana), and backup (Velero). Maya streamlines CI/CD, GitOps, and multi-environment deployments with minimal configuration and maximum efficiency.",    
+    "image": "maya",
+    "category": "devops",
+    "links": {
+      "view": "https://www.linkedin.com/posts/the-one-rvs_bash-devops-cloudnative-activity-7319802193404915712-1bZs?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD6baA8BTzyxqPoNABhHiQduybPMGRhTykA",
+      "code": "https://github.com/the-one-rvs/MAYA"
+    }
+  },
+  {
+    "name": "KubeNetra",
+    "desc": "Kube-Netra is a lightweight CLI tool that watches container registries (like Docker Hub, Harbor, ACR) for new image tags and automatically updates Helm chart values.yaml files for Kubernetes environments. It supports manual promotion of image tags to sevrals environments via GitHub commits. With GitOps integration, multi-cluster support, and an intuitive interface, Kube-Netra simplifies image version tracking and promotes safe, traceable deployments across environments—empowering DevOps teams with better control over their Kubernetes release workflows.",
+    "image": "KubeNetra",
+    "category": "devops",
+    "links": {
+      "view": " https://github.com/the-one-rvs/Kube-Netra",
+      "code": "https://github.com/the-one-rvs/Kube-Netra"
+    }
+  },
+  {
+    "name": "DevSecOps Pipeline",
+    "desc": "This project features a DevSecOps pipeline integrating Trivy for vulnerability scanning, SonarQube for static code analysis, and OWASP Dependency-Check for detecting known vulnerabilities in third-party libraries. It ensures secure code and container builds, enabling early risk detection and continuous security throughout the CI/CD workflow.",
+    "image": "DevSecOps",
+    "category": "devops",
+    "links": {
+      "view": "https://www.linkedin.com/posts/the-one-rvs_devsecops-cybersecurity-keel-activity-7305943484744507393-UI0E?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD6baA8BTzyxqPoNABhHiQduybPMGRhTykA",
+      "code": "https://github.com/the-one-rvs/DevSecOps-Pipeline"
+    }
+  },
+  {
+    "name": "Upchaar - Production Infrastructure",
+    "desc": "Upchaar-Prod is a production-grade healthcare application deployed across Kubeadm and KIND Kubernetes clusters. It runs 5+ microservices with a robust CI/CD pipeline built using Jenkins. The infrastructure automates container builds, security scans, and multi-environment deployments, simulating a real-world setup for scalable and secure healthcare service delivery.",
+    "image": "upchaar",
+    "category": "devops",
+    "links": {
+      "view": "https://www.linkedin.com/posts/the-one-rvs_docker-kubernetes-terraform-activity-7293657414350876673-Ek6N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6baA8BTzyxqPoNABhHiQduybPMGRhTykA",
+      "code": "https://github.com/the-one-rvs/Upchaar-Prod"
+    }
+  },
+  {
+    "name": "VE-Lint",
+    "desc": "VE-lint is a lightweight CLI and UI tool that integrates Trivy and Gemini AI to scan Dockerfiles and container images for vulnerabilities and misconfigurations. It offers contextual, AI-assisted remediation suggestions for each issue, making it ideal for secure image development. Designed for local use and CI/CD pipelines, VE-lint streamlines container security audits by combining static analysis with intelligent insights.",
+    "image": "ve-lint",
+    "category": "devops",
+    "links": {
+      "view": "https://github.com/the-one-rvs/VE-lint",
+      "code": "https://github.com/the-one-rvs/VE-lint"
+    }
+  }
+]

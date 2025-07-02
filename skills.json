@@ -1,0 +1,20 @@
+[
+  { "name": "Kubernetes",     "icon": "https://img.icons8.com/color/100/kubernetes.png" },
+  { "name": "Docker",         "icon": "https://img.icons8.com/color/100/docker.png" },
+  { "name": "Jenkins",        "icon": "https://img.icons8.com/color/100/jenkins.png" },
+  { "name": "AWS",            "icon": "https://img.icons8.com/color/100/amazon-web-services.png" },
+  { "name": "Terraform",      "icon": "https://img.icons8.com/color/100/terraform.png" },
+  { "name": "Ansible",        "icon": "https://img.icons8.com/color/100/ansible.png" },
+  { "name": "Linux",          "icon": "https://img.icons8.com/color/100/linux.png" },
+  { "name": "GitHub Actions", "icon": "https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" },
+  { "name": "Prometheus",     "icon": "https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" },
+  { "name": "Grafana",        "icon": "https://img.icons8.com/color/100/grafana.png" },
+  { "name": "Helm",           "icon": "https://img.icons8.com/?size=100&id=QNB1wkMEKDtR&format=png&color=000000" },
+  { "name": "Argo CD",        "icon": "assets/images/skills/argocd.png" },
+  { "name": "Trivy",          "icon": "assets/images/skills/cpp.png" },
+  { "name": "Git",      "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000" },
+  { "name": "SonarQube",      "icon": "assets/images/skills/sonarqube.png" },
+  { "name": "Python",         "icon": "https://img.icons8.com/color/100/python.png" },
+  { "name": "Go",             "icon": "https://img.icons8.com/color/100/golang.png" },
+  { "name": "Bash",          "icon": "https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" }
+]
